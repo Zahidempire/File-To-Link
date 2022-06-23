@@ -61,8 +61,7 @@ async def start(b, m):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [InlineKeyboardButton("⚡ 𝚄𝙿𝙳𝙰𝚃𝙴𝚉 ⚡", url="https://t.me/{Var.UPDATES_CHANNEL}"), InlineKeyboardButton("⚡ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ⚡", url="https://t.me/STARK_WORKS_GROUP")],
-                    [InlineKeyboardButton("💸 𝙳𝙾𝙽𝙰𝚃𝙴 💸", url="https://paypal.me/zahid9125?country.x=IN&locale.x=en_GB
-"), InlineKeyboardButton("💠 𝙶𝙸𝚃𝙷𝚄𝙱 💠", url="https://github.com/Zahidempire")],
+                    [InlineKeyboardButton("💸 𝙳𝙾𝙽𝙰𝚃𝙴 💸", url="https://paypal.me/zahid9125"), InlineKeyboardButton("💠 𝙶𝙸𝚃𝙷𝚄𝙱 💠", url="https://github.com/Zahidempire")],
                     [InlineKeyboardButton("💌 INSTAGRAM 💌", url="https://instagram.com/its_raza_mohdzahidraza__?igshid=YmMyMTA2M2Y=")]
                 ]
             ),
@@ -180,8 +179,7 @@ async def help_handler(bot, message):
         reply_markup=InlineKeyboardMarkup(
             [
                     [InlineKeyboardButton("⚡ 𝚄𝙿𝙳𝙰𝚃𝙴𝚉 ⚡", url="https://t.me/{Var.UPDATES_CHANNEL}"), InlineKeyboardButton("⚡ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ⚡", url="https://t.me/STARK_WORKS_GROUP")],
-                    [InlineKeyboardButton("💸 𝙳𝙾𝙽𝙰𝚃𝙴 💸", url="https://paypal.me/zahid9125?country.x=IN&locale.x=en_GB
-"), InlineKeyboardButton("💠 𝙶𝙸𝚃𝙷𝚄𝙱 💠", url="https://github.com/Zahidempire")],
+                    [InlineKeyboardButton("💸 𝙳𝙾𝙽𝙰𝚃𝙴 💸", url="https://paypal.me/zahid9125"), InlineKeyboardButton("💠 𝙶𝙸𝚃𝙷𝚄𝙱 💠", url="https://github.com/Zahidempire")],
                     [InlineKeyboardButton("💌 INSTAGRAM 💌", url="https://instagram.com/its_raza_mohdzahidraza__?igshid=YmMyMTA2M2Y=")]
                 ]
         )
@@ -245,7 +243,7 @@ async def about_handler(bot, message):
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("⚡ 𝚄𝙿𝙳𝙰𝚃𝙴𝚉 ⚡", url="https://t.me/STARK_WORKS_CHANNEL"), InlineKeyboardButton("💸 𝙳𝙾𝙽𝙰𝚃𝙴 💸", url="https://paypal.me/zahid9125?country.x=IN&locale.x=en_GB")],
+                [InlineKeyboardButton("⚡ 𝚄𝙿𝙳𝙰𝚃𝙴𝚉 ⚡", url="https://t.me/STARK_WORKS_CHANNEL"), InlineKeyboardButton("💸 𝙳𝙾𝙽𝙰𝚃𝙴 💸", url="https://paypal.me/zahid9125")],
                 [InlineKeyboardButton("💌 INSTAGRAM 💌", url="https://instagram.com/md_zahid_raza_?igshid=YmMyMTA2M2Y=")]
             ]
         )
