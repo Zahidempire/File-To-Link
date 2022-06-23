@@ -11,7 +11,7 @@
   </p>
   <p align="center">
   <a href="https://instagram.com/md_zahid_raza_?igshid=YmMyMTA2M2Y=">
-        <img src="https://img.shields.io/badge/𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄-red?logo=youtube" width="200">
+        <img src="https://img.shields.io/badge/INSTAGRAM-red?logo=instagram" width="200">
   </p>
 <hr>
   
