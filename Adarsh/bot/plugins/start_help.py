@@ -62,7 +62,7 @@ async def start(b, m):
                 [
                     [InlineKeyboardButton("⚡ 𝚄𝙿𝙳𝙰𝚃𝙴𝚉 ⚡", url="https://t.me/STARK_WORKS_CHANNEL"), InlineKeyboardButton("⚡ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ⚡", url="https://t.me/STARK_WORKS_GROUP")],
                     [InlineKeyboardButton("💸 𝙳𝙾𝙽𝙰𝚃𝙴 💸", url="https://paypal.me/zahid9125"), InlineKeyboardButton("💠 𝙶𝙸𝚃𝙷𝚄𝙱 💠", url="https://github.com/Zahidempire")],
-                    [InlineKeyboardButton("💌 INSTAGRAM 💌", url="https://instagram.com/its_raza_mohdzahidraza__?igshid=YmMyMTA2M2Y=")]
+                    [InlineKeyboardButton("💌 INSTAGRAM 💌", url="https://instagram.com/md_zahid_raza_?igshid=YmMyMTA2M2Y=")]
                 ]
             ),
             disable_web_page_preview=True
@@ -180,7 +180,7 @@ async def help_handler(bot, message):
             [
                     [InlineKeyboardButton("⚡ 𝚄𝙿𝙳𝙰𝚃𝙴𝚉 ⚡", url="https://t.me/STARK_WORKS_CHANNEL"), InlineKeyboardButton("⚡ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ⚡", url="https://t.me/STARK_WORKS_GROUP")],
                     [InlineKeyboardButton("💸 𝙳𝙾𝙽𝙰𝚃𝙴 💸", url="https://paypal.me/zahid9125"), InlineKeyboardButton("💠 𝙶𝙸𝚃𝙷𝚄𝙱 💠", url="https://github.com/Zahidempire")],
-                    [InlineKeyboardButton("💌 INSTAGRAM 💌", url="https://instagram.com/its_raza_mohdzahidraza__?igshid=YmMyMTA2M2Y=")]
+                    [InlineKeyboardButton("💌 INSTAGRAM 💌", url="https://instagram.com/md_zahid_raza_?igshid=YmMyMTA2M2Y=")]
                 ]
         )
     )
