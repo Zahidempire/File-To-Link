@@ -10,7 +10,7 @@
     <br />
   </p>
   <p align="center">
-  <a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
+  <a href="https://instagram.com/md_zahid_raza_?igshid=YmMyMTA2M2Y=">
         <img src="https://img.shields.io/badge/𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄-red?logo=youtube" width="200">
   </p>
 <hr>
@@ -18,7 +18,7 @@
 ## About This Bot
 
 <p align="center">
-    <a href="https://github.com/Aadhi000/File-To-Link">
+    <a href="https://github.com/Zahidempire/File-To-Link">
         <img src="https://www.flaticon.com/premium-icon/icons/svg/2626/2626281.svg" height="100" width="100" alt="Telegram Logo">
     </a>
 </p>
@@ -34,7 +34,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 Press the below button to Fast deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/alone-boy-A/waste-3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Zahidempire/File-To-Link)
 
 
 🚀Features<p>
@@ -143,6 +143,7 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 ### Credits : 
 
-- [Adarsh Goel_(me)](https://github.com/adarsh-goel)
+- [Adarsh Goel_](https://github.com/adarsh-goel)
 - [DeekshithSH](https://github.com/DeekshithSH) 
+- [Zahidempire](https://github.com/Zahidempire)
 - Everyone In This Journey !
